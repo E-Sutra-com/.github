@@ -3,7 +3,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "E-SUTRA TECHNOLOGIES PRIVATE LIMITED",
-  "alternateName": "E-Sutra Technologies",
+  "alternateName": "E-Sutra Technologies Private Limited",
   "url": "https://e-sutra.com",
   "logo": "https://e-sutra.com/logo.png",
   "description": "E-Sutra Technologies is a premier enterprise technology consulting and product engineering firm architecting scalable digital solutions, strategic AI integration, multi-cloud ecosystems, and high-volume commerce platforms.",
