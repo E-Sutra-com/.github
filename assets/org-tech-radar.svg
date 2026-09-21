@@ -1,0 +1,91 @@
+<svg width="100%" height="130" viewBox="0 0 850 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hudBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#162238"/>
+      <stop offset="100%" stop-color="#0d1627"/>
+    </linearGradient>
+    <linearGradient id="hudBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="33%" stop-color="#6366f1"/>
+      <stop offset="66%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes blinkOrg {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
+    }
+    .col-kicker {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+    }
+    .col-head {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #ffffff;
+    }
+    .col-body {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #cbd5e1;
+    }
+    .dot-a { animation: blinkOrg 2.2s infinite; fill: #38bdf8; }
+    .dot-b { animation: blinkOrg 2.2s infinite 0.5s; fill: #f59e0b; }
+    .dot-c { animation: blinkOrg 2.2s infinite 1.0s; fill: #a855f7; }
+    .dot-d { animation: blinkOrg 2.2s infinite 1.5s; fill: #10b981; }
+  </style>
+
+  <!-- Container Frame -->
+  <rect width="850" height="130" rx="12" fill="url(#hudBg)" stroke="#1e293b" stroke-width="1.8"/>
+  <rect x="0" y="0" width="850" height="3" fill="url(#hudBorder)"/>
+
+  <!-- Col 1: Product Engineering & SaaS -->
+  <g transform="translate(18, 18)">
+    <rect width="192" height="92" rx="8" fill="url(#cardGrad2)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6"/>
+    <circle cx="16" cy="20" r="4" class="dot-a"/>
+    <text x="28" y="24" class="col-kicker" fill="#38bdf8">PRODUCT ENGINEERING</text>
+    <text x="16" y="48" class="col-head">React 19 • Next.js • Vite</text>
+    <text x="16" y="66" class="col-body">TypeScript • Node • Express</text>
+    <text x="16" y="82" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">Prisma • PostgreSQL • K8s</text>
+  </g>
+
+  <!-- Col 2: High-Volume Commerce -->
+  <g transform="translate(222, 18)">
+    <rect width="192" height="92" rx="8" fill="url(#cardGrad2)" stroke="#f59e0b" stroke-width="1.2" stroke-opacity="0.6"/>
+    <circle cx="16" cy="20" r="4" class="dot-b"/>
+    <text x="28" y="24" class="col-kicker" fill="#f59e0b">DIGITAL COMMERCE</text>
+    <text x="16" y="48" class="col-head">Shopify Plus • Magento</text>
+    <text x="16" y="66" class="col-body">WordPress • WooCommerce</text>
+    <text x="16" y="82" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">OpenCart • Headless</text>
+  </g>
+
+  <!-- Col 3: Multi-Cloud & DevOps -->
+  <g transform="translate(426, 18)">
+    <rect width="198" height="92" rx="8" fill="url(#cardGrad2)" stroke="#a855f7" stroke-width="1.2" stroke-opacity="0.6"/>
+    <circle cx="16" cy="20" r="4" class="dot-c"/>
+    <text x="28" y="24" class="col-kicker" fill="#c084fc">MULTI-CLOUD &amp; DEVOPS</text>
+    <text x="16" y="48" class="col-head">AWS • GCP • Azure • OCI</text>
+    <text x="16" y="66" class="col-body">Kubernetes • Docker • IaC</text>
+    <text x="16" y="82" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">Jenkins • SonarQube CI</text>
+  </g>
+
+  <!-- Col 4: Strategic AI & Automation -->
+  <g transform="translate(636, 18)">
+    <rect width="196" height="92" rx="8" fill="url(#cardGrad2)" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.6"/>
+    <circle cx="16" cy="20" r="4" class="dot-d"/>
+    <text x="28" y="24" class="col-kicker" fill="#34d399">STRATEGIC AI &amp; AGENTS</text>
+    <text x="16" y="48" class="col-head">Gemini • Claude • OpenAI</text>
+    <text x="16" y="66" class="col-body">LangChain • Vector Search</text>
+    <text x="16" y="82" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">RAG &amp; Autonomous Agents</text>
+  </g>
+</svg>

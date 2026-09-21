@@ -1,0 +1,93 @@
+<svg width="100%" height="130" viewBox="0 0 850 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orgQuoteBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orgQuoteLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .quote-eyebrow {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 2px;
+      fill: #38bdf8;
+    }
+    .quote-statement {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 14.5px;
+      font-weight: 600;
+      fill: #ffffff;
+      letter-spacing: 0.2px;
+    }
+    .quote-org {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #a5b4fc;
+    }
+
+    @keyframes cycleQ1 {
+      0%, 20% { opacity: 1; visibility: visible; }
+      25%, 95% { opacity: 0; visibility: hidden; }
+      100% { opacity: 1; visibility: visible; }
+    }
+    @keyframes cycleQ2 {
+      0%, 20% { opacity: 0; visibility: hidden; }
+      25%, 45% { opacity: 1; visibility: visible; }
+      50%, 100% { opacity: 0; visibility: hidden; }
+    }
+    @keyframes cycleQ3 {
+      0%, 45% { opacity: 0; visibility: hidden; }
+      50%, 70% { opacity: 1; visibility: visible; }
+      75%, 100% { opacity: 0; visibility: hidden; }
+    }
+    @keyframes cycleQ4 {
+      0%, 70% { opacity: 0; visibility: hidden; }
+      75%, 95% { opacity: 1; visibility: visible; }
+      100% { opacity: 0; visibility: hidden; }
+    }
+
+    .q1 { animation: cycleQ1 16s ease-in-out infinite; }
+    .q2 { animation: cycleQ2 16s ease-in-out infinite; }
+    .q3 { animation: cycleQ3 16s ease-in-out infinite; }
+    .q4 { animation: cycleQ4 16s ease-in-out infinite; }
+  </style>
+
+  <!-- Frame Base -->
+  <rect width="850" height="130" rx="12" fill="url(#orgQuoteBg)" stroke="#1e293b" stroke-width="1.8"/>
+  <rect x="0" y="0" width="850" height="3" fill="url(#orgQuoteLine)"/>
+
+  <!-- Tag -->
+  <text x="30" y="32" class="quote-eyebrow">// ENTERPRISE ENGINEERING PHILOSOPHY &amp; VALUES</text>
+
+  <!-- Q1 -->
+  <g class="q1" transform="translate(30, 62)">
+    <text x="0" y="0" class="quote-statement">"We don't just build software; we engineer the scalable digital foundations that power tomorrow's enterprises."</text>
+    <text x="0" y="26" class="quote-org">— E-Sutra Technologies | Engineering Excellence</text>
+  </g>
+
+  <!-- Q2 -->
+  <g class="q2" transform="translate(30, 62)">
+    <text x="0" y="0" class="quote-statement">"Zero-defect delivery, multi-cloud resilience, and human-centric design are the non-negotiables of our engineering."</text>
+    <text x="0" y="26" class="quote-org">— E-Sutra Technologies | ISO 27001 &amp; SOC 2 Certified Quality</text>
+  </g>
+
+  <!-- Q3 -->
+  <g class="q3" transform="translate(30, 62)">
+    <text x="0" y="0" class="quote-statement">"From multi-million dollar commerce scale to mission-critical SaaS, we bridge architectural precision with velocity."</text>
+    <text x="0" y="26" class="quote-org">— E-Sutra Technologies | Global Enterprise Delivery</text>
+  </g>
+
+  <!-- Q4 -->
+  <g class="q4" transform="translate(30, 62)">
+    <text x="0" y="0" class="quote-statement">"Strategic AI integration transforms enterprise operations from reactive maintenance to exponential market leadership."</text>
+    <text x="0" y="26" class="quote-org">— E-Sutra Technologies | Applied AI &amp; Intelligent Automation</text>
+  </g>
+</svg>
