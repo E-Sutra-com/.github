@@ -2,11 +2,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "E-SUTRA TECHNOLOGIES PRIVATE LIMITED",
-  "alternateName": "E-Sutra Technologies",
+  "name": "E-Sutra Technologies Private Limited",
+  "alternateName": "E-Sutra Technologies Private Limited",
   "url": "https://e-sutra.com",
   "logo": "https://e-sutra.com/logo.png",
-  "description": "E-Sutra Technologies is a premier enterprise technology consulting and product engineering firm architecting scalable digital solutions, strategic AI integration, multi-cloud ecosystems, and high-volume commerce platforms.",
+  "description": "E-Sutra Technologies is an enterprise technology consulting and product engineering firm architecting scalable digital platforms, strategic AI integration, multi-cloud ecosystems, and high-volume commerce systems.",
   "foundingDate": "2019",
   "identifier": [
     {
@@ -51,42 +51,43 @@
 
   <br/><br/>
 
-  <!-- DYNAMIC ROTATING HEADLINE BANNER -->
+  <!-- ENTERPRISE ROTATING ANNOUNCEMENT -->
   <a href="https://e-sutra.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Engineering+the+Digital+Foundation+for+Tomorrow's+Enterprises;Enterprise+SaaS+%E2%80%A2+High-Volume+E-Commerce+%E2%80%A2+Applied+AI;Multi-Cloud%3A+AWS+%E2%80%A2+Google+Cloud+%E2%80%A2+Azure+%E2%80%A2+Oracle+Cloud;ISO+27001+Certified+%E2%80%A2+SOC+2+Type+II+Compliant+%E2%80%A2+Top+B2B+Firm;150%2B+Projects+Delivered+Across+10%2B+Global+Industries" alt="E-Sutra Enterprise Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Engineering+the+Digital+Foundation+for+Tomorrow's+Enterprises;Enterprise+SaaS+%E2%80%A2+High-Volume+E-Commerce+%E2%80%A2+Applied+AI;Multi-Cloud+Ecosystems%3A+AWS+%E2%80%A2+GCP+%E2%80%A2+Azure+%E2%80%A2+Oracle+Cloud;ISO+27001+Certified+%E2%80%A2+SOC+2+Type+II+Compliant+%E2%80%A2+Top+B2B+Firm;150%2B+Projects+Delivered+Across+10%2B+Global+Industries" alt="E-Sutra Technologies Capabilities" />
   </a>
 
   <br/>
 
-  <!-- ACCREDITATIONS & VERIFIED TRUST BADGES -->
+  <!-- CORPORATE TRUST & CERTIFICATION BADGES -->
   <p align="center">
     <a href="https://e-sutra.com" target="_blank">
-      <img src="https://img.shields.io/badge/Security-ISO_27001_Certified-10b981?style=flat-square" alt="ISO 27001" />
+      <img src="https://img.shields.io/badge/Security-ISO_27001_Certified-059669?style=flat-square" alt="ISO 27001 Certified" />
     </a>
-    <img src="https://img.shields.io/badge/Compliance-SOC_2_Type_II_Compliant-0284c7?style=flat-square" alt="SOC 2" />
-    <img src="https://img.shields.io/badge/Privacy-GDPR_Compliant-6366f1?style=flat-square" alt="GDPR" />
-    <img src="https://img.shields.io/badge/Healthcare-HIPAA_Ready-8b5cf6?style=flat-square" alt="HIPAA" />
-    <img src="https://img.shields.io/badge/D--U--N--S-91--847--2034-f59e0b?style=flat-square" alt="DUNS" />
-    <img src="https://img.shields.io/badge/Clutch-Top_B2B_Firm-critical?style=flat-square" alt="Clutch" />
-    <img src="https://img.shields.io/badge/Delivery-90%25+_On--Time-success?style=flat-square" alt="Delivery" />
+    <img src="https://img.shields.io/badge/Compliance-SOC_2_Type_II-0284c7?style=flat-square" alt="SOC 2 Type II" />
+    <img src="https://img.shields.io/badge/Privacy-GDPR_Compliant-4f46e5?style=flat-square" alt="GDPR Compliant" />
+    <img src="https://img.shields.io/badge/Healthcare-HIPAA_Ready-7c3aed?style=flat-square" alt="HIPAA Ready" />
+    <img src="https://img.shields.io/badge/D--U--N--S-91--847--2034-d97706?style=flat-square" alt="DUNS" />
+    <a href="https://clutch.co/profile/e-sutra-technologies-private" target="_blank">
+      <img src="https://img.shields.io/badge/Clutch-Verified_Top_B2B_Firm-e11d48?style=flat-square" alt="Clutch" />
+    </a>
   </p>
 
-  <!-- OFFICIAL CORPORATE CHANNELS -->
+  <!-- OFFICIAL CORPORATE PORTALS -->
   <p align="center">
     <a href="https://e-sutra.com" target="_blank">
-      <img src="https://img.shields.io/badge/Official_Website-e--sutra.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Official_Website-e--sutra.com-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" />
+    </a>
+    &nbsp;
+    <a href="https://e-sutra.com/contact" target="_blank">
+      <img src="https://img.shields.io/badge/Consultation-Book_Meeting-2563eb?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book Consultation" />
     </a>
     &nbsp;
     <a href="https://in.linkedin.com/company/esutra" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-E--SUTRA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:contact@e-sutra.com">
-      <img src="https://img.shields.io/badge/Contact-contact%40e--sutra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/LinkedIn-E--SUTRA-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://x.com/ESutraTech" target="_blank">
-      <img src="https://img.shields.io/badge/X-@ESutraTech-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+      <img src="https://img.shields.io/badge/X-@ESutraTech-18181b?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
     </a>
   </p>
 
@@ -96,33 +97,33 @@
 
 ### Corporate Overview
 
-**E-Sutra Technologies Private Limited** is a premier enterprise technology consulting and product engineering firm. We partner with ambitious startups, global enterprises, government bodies, and public sector undertakings (PSUs) to architect scalable digital platforms, modernize legacy ecosystems, and engineer software that drives measurable commercial outcomes—strategically accelerated by AI.
+**E-Sutra Technologies Private Limited** is an enterprise technology consulting and product engineering firm. We partner with ambitious technology scale-ups, global enterprises, and public sector organizations to design, build, and scale resilient digital platforms, modernize core architectures, and implement strategic artificial intelligence.
 
-With a proven track record of delivering over **150+ successful client engagements** across **10+ global industries**, E-Sutra combines deep architectural discipline, ISO 27001-certified security, and modern agile delivery pods.
+Operating under ISO 27001-certified security standards and strict SOC 2 Type II compliance, E-Sutra delivers dedicated engineering squads and milestone-driven technical execution across North America, Europe, the Middle East, and Asia-Pacific.
 
-- **150+ Enterprise Engagements**: Successfully delivered complex web, mobile, SaaS, and retail ecosystems.
-- **High-Velocity Execution**: Sustained 90%+ on-time delivery record backed by zero-defect CI/CD pipelines.
-- **Commercial E-Commerce Mastery**: High-volume retail engines on Shopify Plus, Magento (Adobe Commerce), WooCommerce / WordPress, and OpenCart.
-- **Enterprise Multi-Cloud**: Production workloads across Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, and Oracle Cloud Infrastructure (OCI).
-- **Strategic Artificial Intelligence**: Seamless integration of Generative AI, autonomous agents, and enterprise RAG pipelines.
+- **150+ Enterprise Deployments**: Successfully delivered complex SaaS platforms, high-throughput e-commerce systems, and cloud infrastructure.
+- **Sustained Velocity**: Consistent 90%+ on-time delivery backed by automated CI/CD and SonarQube quality gates.
+- **Digital Commerce Authority**: High-volume commerce solutions across Shopify Plus, Magento (Adobe Commerce), WooCommerce / WordPress, OpenCart, and Headless architectures.
+- **Multi-Cloud Resilience**: Enterprise deployments spanning Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, and Oracle Cloud Infrastructure (OCI).
+- **Practical AI Integration**: Enterprise-grade Generative AI, retrieval-augmented generation (RAG) pipelines, and autonomous agent orchestration.
 
 ---
 
-### Engineering Radar & Core Disciplines
+### Core Engineering Capabilities
 
 <div align="center">
   <a href="https://e-sutra.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/E-Sutra-com/.github/main/assets/org-tech-radar.svg" width="100%" alt="E-Sutra Technology Radar" />
+    <img src="https://raw.githubusercontent.com/E-Sutra-com/.github/main/assets/org-tech-radar.svg" width="100%" alt="Enterprise Solution Matrix" />
   </a>
 </div>
 
 ---
 
-### Enterprise Delivery Engine
+### Enterprise Delivery Governance
 
 <div align="center">
   <a href="https://e-sutra.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/E-Sutra-com/.github/main/assets/org-delivery-pipeline.svg" width="100%" alt="E-Sutra Delivery Pipeline" />
+    <img src="https://raw.githubusercontent.com/E-Sutra-com/.github/main/assets/org-delivery-pipeline.svg" width="100%" alt="Delivery Governance Framework" />
   </a>
 </div>
 
@@ -132,14 +133,14 @@ With a proven track record of delivering over **150+ successful client engagemen
 
 <div align="center">
 
-| Solution Discipline | Commercial Scope & Enterprise Value | Key Technologies & Methodologies |
+| Solution Area | Enterprise Scope & Commercial Impact | Core Technologies & Standards |
 | :--- | :--- | :--- |
-| **Product Engineering & Custom Software** | Turnkey design, development, and scaling of custom digital products and multi-tenant SaaS platforms. | React 19, Next.js 15, TypeScript, Node.js, Express, NestJS, Prisma ORM, PostgreSQL |
-| **High-Volume Digital Commerce** | Enterprise e-commerce platforms handling high concurrency, flash sales, ERP sync, and dynamic checkout funnels. | Shopify Plus, Magento (Adobe Commerce), WooCommerce / WordPress, OpenCart, Headless Next.js Commerce |
-| **Multi-Cloud, DevOps & DevSecOps** | Cloud-native infrastructure provisioning, zero-downtime CI/CD automation, and multi-cloud resilience. | AWS, Google Cloud (GCP), Microsoft Azure, Oracle Cloud (OCI), Kubernetes, Docker, Terraform, Jenkins, SonarQube |
-| **Strategic AI & Intelligent Automation** | Practical generative AI deployment, contextual knowledge search (RAG), and autonomous multi-agent pipelines. | Google Gemini, OpenAI API, Anthropic Claude, LangChain, LlamaIndex, Vector DBs (Pinecone, Chroma), Local LLMs |
-| **Enterprise CRM & ERP Systems** | Unified corporate management platforms including Hospital Management (HMS) and Asset Management (ASM). | Tailored Workflows, Role-Based Access Control (RBAC), Data Warehousing, Audit Logs, Real-Time Telemetry |
-| **Quality Engineering & Security** | Automated testing, vulnerability scanning, static code analysis, and ISO 27001 regulatory compliance. | Jest, Playwright, SonarQube Quality Gates, Zero-Trust Architecture, Penetration Testing |
+| **Product Engineering & Custom Software** | Turnkey design, development, and scaling of custom enterprise applications and multi-tenant SaaS platforms. | React 19, Next.js 15, TypeScript, Node.js, Express, NestJS, Prisma ORM, PostgreSQL |
+| **High-Volume Digital Commerce** | Scalable retail platforms engineered for high concurrency, intense flash sales, dynamic ERP sync, and custom checkout flows. | Shopify Plus, Magento (Adobe Commerce), WooCommerce / WordPress, OpenCart, Headless Next.js Commerce |
+| **Multi-Cloud, DevOps & DevSecOps** | Infrastructure-as-code provisioning, zero-downtime automated deployment pipelines, and cross-cloud disaster recovery. | AWS, Google Cloud (GCP), Microsoft Azure, Oracle Cloud (OCI), Kubernetes, Docker, Terraform, Jenkins, SonarQube |
+| **Strategic AI & Intelligent Automation** | Practical enterprise AI implementations, contextual knowledge search (RAG), and autonomous multi-agent pipelines. | Google Gemini, OpenAI API, Anthropic Claude, LangChain, LlamaIndex, Vector DBs (Pinecone, Chroma), Local LLMs |
+| **Enterprise CRM & ERP Solutions** | Unified management architectures including Hospital Management Systems (HMS) and Asset Management Systems (ASM). | Role-Based Access Control (RBAC), Data Warehousing, Audit Logging, Real-Time System Telemetry |
+| **Quality Engineering & Security** | Automated regression testing, vulnerability scanning, static code analysis, and ISO 27001 regulatory compliance. | Jest, Playwright, SonarQube Quality Gates, Zero-Trust Architecture, Penetration Testing |
 
 </div>
 
@@ -147,14 +148,14 @@ With a proven track record of delivering over **150+ successful client engagemen
 
 ### Global Industry Footprint
 
-We engineer specialized platforms engineered to meet stringent regulatory, operational, and performance demands across global sectors:
+We engineer specialized platforms tailored to meet stringent regulatory, operational, and performance demands across global sectors:
 
 <div align="center">
 
-| Sector | Industry Focus & Typical Engagements |
+| Sector | Industry Scope & Typical Deployments |
 | :--- | :--- |
-| **Healthcare & HealthTech** | HIPAA-ready hospital management systems, patient portals, clinical diagnostics workflows. |
-| **Finance & FinTech** | Highly secure payment gateways, lending engines, accounting platforms, audit-compliant ledgers. |
+| **Healthcare & HealthTech** | HIPAA-ready hospital management systems, patient portals, clinical diagnostic workflows. |
+| **Finance & FinTech** | Secure transaction gateways, lending engines, accounting platforms, audit-compliant ledgers. |
 | **Retail & Digital Commerce** | High-volume consumer storefronts, multi-brand marketplaces, dynamic catalog and inventory sync. |
 | **Technology & SaaS** | Cloud-native multi-tenant SaaS platforms, developer tooling, API microservices ecosystems. |
 | **Logistics & Supply Chain** | Fleet tracking, warehouse management systems, freight route optimization, ERP integrations. |
@@ -166,11 +167,11 @@ We engineer specialized platforms engineered to meet stringent regulatory, opera
 
 ---
 
-### Enterprise Technology Stack Matrix
+### Enterprise Technology Stack
 
 <div align="center">
 
-| Technology Layer | Production Tooling & Frameworks |
+| Technology Layer | Production Stack & Tooling |
 | :--- | :--- |
 | **Digital Commerce Platforms** | ![Shopify Plus](https://img.shields.io/badge/Shopify_Plus-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![Magento](https://img.shields.io/badge/Magento_%2F_Adobe_Commerce-EE672F?style=flat-square&logo=magento&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![OpenCart](https://img.shields.io/badge/OpenCart-239CD3?style=flat-square&logo=opencart&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
 | **Multi-Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
@@ -178,7 +179,6 @@ We engineer specialized platforms engineered to meet stringent regulatory, opera
 | **Backend & Microservices** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **DevOps & Quality Engineering** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) |
 | **Strategic AI & Automation** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Vector DBs](https://img.shields.io/badge/Pinecone_%2F_Chroma-0284C7?style=flat-square) |
-| **Languages & Runtimes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 
 <br/>
 
@@ -191,9 +191,9 @@ We engineer specialized platforms engineered to meet stringent regulatory, opera
 
 ---
 
-### Engagement Models
+### Client Engagement Models
 
-We offer flexible, structured engagement models aligned with project velocity and enterprise governance:
+We offer structured, flexible engagement models aligned with project velocity and enterprise governance:
 
 <table>
   <tr>
@@ -226,11 +226,11 @@ We offer flexible, structured engagement models aligned with project velocity an
 
 ---
 
-### Corporate Engineering Philosophy
+### Corporate Engineering Statement
 
 <div align="center">
   <a href="https://e-sutra.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/E-Sutra-com/.github/main/assets/org-quote.svg" width="100%" alt="E-Sutra Corporate Philosophy" />
+    <img src="https://raw.githubusercontent.com/E-Sutra-com/.github/main/assets/org-quote.svg" width="100%" alt="E-Sutra Corporate Statement" />
   </a>
 </div>
 
@@ -262,10 +262,9 @@ E-Sutra operates under rigorous international quality and security benchmarks:
 E-Sutra has completed over 150 enterprise projects across 10+ industries with a 90%+ on-time delivery rate, engineering platforms that support multi-million dollar monthly revenue and transaction volumes with 99.99% availability.
 
 #### How can enterprises and founders initiate an engagement?
-Clients can engage E-Sutra through:
-1. **Strategy Consultation**: Scheduling an architecture or project evaluation via [e-sutra.com/contact](https://e-sutra.com/contact).
-2. **Direct Enterprise Inquiry**: Contacting the client advisory desk at [contact@e-sutra.com](mailto:contact@e-sutra.com).
-3. **Engagement Models**: Selecting between Dedicated Engineering Pods, Turnkey Project Delivery, or Strategic Advisory.
+Organizations can connect with E-Sutra directly through our official channels:
+1. **Strategy Consultation**: Schedule an initial architecture or project evaluation via [e-sutra.com/contact](https://e-sutra.com/contact).
+2. **Engagement Models**: Select between Dedicated Engineering Pods, Turnkey Project Delivery, or Strategic Advisory.
 
 ---
 
@@ -274,19 +273,19 @@ Clients can engage E-Sutra through:
 <div align="center">
 
   <a href="https://e-sutra.com" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Website-e--sutra.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Official_Website-e--sutra.com-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://e-sutra.com/contact" target="_blank">
-    <img src="https://img.shields.io/badge/Book_Consultation-Schedule_Meeting-10b981?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Consultation" />
+    <img src="https://img.shields.io/badge/Book_Consultation-Schedule_Meeting-2563eb?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Consultation" />
   </a>
   &nbsp;&nbsp;
   <a href="https://in.linkedin.com/company/esutra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E--SUTRA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-E--SUTRA-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:contact@e-sutra.com">
-    <img src="https://img.shields.io/badge/Enterprise_Email-contact%40e--sutra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://x.com/ESutraTech" target="_blank">
+    <img src="https://img.shields.io/badge/X-@ESutraTech-18181b?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
 
   <br/><br/>

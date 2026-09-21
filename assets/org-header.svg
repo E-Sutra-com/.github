@@ -1,126 +1,102 @@
-<svg width="100%" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 850 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="orgBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070b14"/>
-      <stop offset="50%" stop-color="#0b1322"/>
-      <stop offset="100%" stop-color="#020617"/>
+    <!-- Executive Deep Slate Background -->
+    <linearGradient id="headerBase" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#040711"/>
     </linearGradient>
 
-    <linearGradient id="orgBorderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="33%" stop-color="#6366f1"/>
-      <stop offset="66%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#10b981"/>
+    <!-- Refined Enterprise Subtle Border -->
+    <linearGradient id="hairlineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1e293b"/>
     </linearGradient>
 
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#162238"/>
-      <stop offset="100%" stop-color="#0d1627"/>
-    </linearGradient>
-
-    <pattern id="orgGrid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.5"/>
+    <!-- Subtle Technical Grid -->
+    <pattern id="archGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#131d30" stroke-width="0.65"/>
     </pattern>
   </defs>
 
   <style>
-    .kicker-tag {
-      font-family: 'JetBrains Mono', 'Fira Code', monospace;
-      font-size: 12px;
-      font-weight: 800;
-      letter-spacing: 2px;
+    .kicker {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2.2px;
       fill: #38bdf8;
+      text-transform: uppercase;
     }
-    .org-name {
+    .org-brand {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-      font-size: 44px;
-      font-weight: 900;
-      letter-spacing: -0.5px;
+      font-size: 40px;
+      font-weight: 800;
+      letter-spacing: -0.8px;
       fill: #ffffff;
     }
-    .org-subtitle {
+    .org-tagline {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      font-size: 15px;
-      font-weight: 600;
-      fill: #f1f5f9;
-      letter-spacing: 0.3px;
+      font-size: 14.5px;
+      font-weight: 500;
+      fill: #94a3b8;
+      letter-spacing: 0.2px;
     }
-    .card-stat {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 13px;
+    .stat-val {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 14px;
       font-weight: 800;
-      letter-spacing: 0.5px;
+      letter-spacing: -0.2px;
+      fill: #f8fafc;
     }
-    .card-label {
+    .stat-lbl {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       font-size: 11px;
       font-weight: 600;
-      fill: #cbd5e1;
-    }
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.8; }
-      50% { opacity: 1; }
-    }
-    .glow-edge {
-      animation: pulseGlow 3.5s ease-in-out infinite;
+      fill: #64748b;
+      letter-spacing: 0.1px;
     }
   </style>
 
-  <!-- Frame Base -->
-  <rect width="850" height="240" rx="14" fill="url(#orgBg)" stroke="#1e293b" stroke-width="1.8"/>
-  <rect width="850" height="240" rx="14" fill="url(#orgGrid)"/>
+  <!-- Container Frame -->
+  <rect width="850" height="220" rx="10" fill="url(#headerBase)" stroke="#1e293b" stroke-width="1.2"/>
+  <rect width="850" height="220" rx="10" fill="url(#archGrid)"/>
 
-  <!-- Top Window Controls -->
-  <circle cx="28" cy="24" r="5" fill="#ef4444" opacity="0.9"/>
-  <circle cx="44" cy="24" r="5" fill="#f59e0b" opacity="0.9"/>
-  <circle cx="60" cy="24" r="5" fill="#10b981" opacity="0.9"/>
+  <!-- Top Decorative Clean Accent -->
+  <rect x="0" y="0" width="850" height="2" fill="url(#hairlineGrad)"/>
 
-  <!-- Kicker Headline -->
-  <text x="82" y="28" class="kicker-tag">// ENTERPRISE TECHNOLOGY CONSULTING &amp; PRODUCT ENGINEERING</text>
+  <!-- Enterprise Header Content (Clean, Left-Aligned Corporate Presentation) -->
+  <g transform="translate(36, 34)">
+    <!-- Kicker Tag -->
+    <text x="0" y="0" class="kicker">ENTERPRISE TECHNOLOGY CONSULTING &amp; PRODUCT ENGINEERING</text>
 
-  <!-- Brand Title -->
-  <text x="50%" y="82" text-anchor="middle" class="org-name">E-Sutra Technologies</text>
+    <!-- Company Name -->
+    <text x="0" y="38" class="org-brand">E-Sutra Technologies</text>
 
-  <!-- Tagline -->
-  <text x="50%" y="112" text-anchor="middle" class="org-subtitle">Engineering the Digital Foundation for Tomorrow's Global Enterprises</text>
-
-  <!-- 4 Trust Metric Cards -->
-  <!-- Card 1: 150+ Projects Delivered -->
-  <g transform="translate(24, 136)">
-    <rect width="188" height="74" rx="8" fill="url(#cardGrad)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6"/>
-    <circle cx="16" cy="22" r="4" fill="#38bdf8"/>
-    <text x="26" y="26" class="card-stat" fill="#38bdf8">150+ DELIVERED</text>
-    <text x="16" y="47" class="card-label">Enterprise Projects</text>
-    <text x="16" y="63" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">90%+ On-Time Velocity</text>
+    <!-- Subtitle Line -->
+    <text x="0" y="66" class="org-tagline">Architecting mission-critical platforms, high-scale digital commerce, and strategic AI integration.</text>
   </g>
 
-  <!-- Card 2: Security & Compliance -->
-  <g transform="translate(224, 136)">
-    <rect width="188" height="74" rx="8" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.6"/>
-    <circle cx="16" cy="22" r="4" fill="#10b981"/>
-    <text x="26" y="26" class="card-stat" fill="#34d399">ISO 27001 &amp; SOC 2</text>
-    <text x="16" y="47" class="card-label">Certified &amp; Compliant</text>
-    <text x="16" y="63" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">GDPR &amp; HIPAA Ready</text>
-  </g>
+  <!-- 4 Clean Institutional Metric Cards -->
+  <g transform="translate(36, 134)">
+    <!-- Stat 1 -->
+    <rect x="0" y="0" width="182" height="60" rx="6" fill="#0d1424" stroke="#1e293b" stroke-width="1"/>
+    <text x="14" y="26" class="stat-val" fill="#38bdf8">150+ Projects</text>
+    <text x="14" y="45" class="stat-lbl">Delivered Globally</text>
 
-  <!-- Card 3: Multi-Cloud & AI Scale -->
-  <g transform="translate(424, 136)">
-    <rect width="194" height="74" rx="8" fill="url(#cardGrad)" stroke="#818cf8" stroke-width="1.2" stroke-opacity="0.6"/>
-    <circle cx="16" cy="22" r="4" fill="#818cf8"/>
-    <text x="26" y="26" class="card-stat" fill="#a5b4fc">MULTI-CLOUD &amp; AI</text>
-    <text x="16" y="47" class="card-label">AWS • GCP • Azure • OCI</text>
-    <text x="16" y="63" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">Enterprise GenAI &amp; RAG</text>
-  </g>
+    <!-- Stat 2 -->
+    <rect x="198" y="0" width="182" height="60" rx="6" fill="#0d1424" stroke="#1e293b" stroke-width="1"/>
+    <text x="14" y="26" class="stat-val" fill="#34d399">ISO 27001 &amp; SOC 2</text>
+    <text x="14" y="45" class="stat-lbl">Certified Security</text>
 
-  <!-- Card 4: Global Reach & Industries -->
-  <g transform="translate(630, 136)">
-    <rect width="194" height="74" rx="8" fill="url(#cardGrad)" stroke="#f59e0b" stroke-width="1.2" stroke-opacity="0.6"/>
-    <circle cx="16" cy="22" r="4" fill="#f59e0b"/>
-    <text x="26" y="26" class="card-stat" fill="#f59e0b">10+ INDUSTRIES</text>
-    <text x="16" y="47" class="card-label">Healthcare • SaaS • Retail</text>
-    <text x="16" y="63" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94a3b8">FinTech • Logistics • ERP</text>
-  </g>
+    <!-- Stat 3 -->
+    <rect x="396" y="0" width="182" height="60" rx="6" fill="#0d1424" stroke="#1e293b" stroke-width="1"/>
+    <text x="14" y="26" class="stat-val" fill="#818cf8">Multi-Cloud</text>
+    <text x="14" y="45" class="stat-lbl">AWS • GCP • Azure • OCI</text>
 
-  <!-- Glowing Bottom Edge -->
-  <rect x="30" y="235" width="790" height="3" rx="1.5" fill="url(#orgBorderGrad)" class="glow-edge"/>
+    <!-- Stat 4 -->
+    <rect x="594" y="0" width="184" height="60" rx="6" fill="#0d1424" stroke="#1e293b" stroke-width="1"/>
+    <text x="14" y="26" class="stat-val" fill="#f59e0b">90%+ Velocity</text>
+    <text x="14" y="45" class="stat-lbl">On-Time Sprint Delivery</text>
+  </g>
 </svg>
